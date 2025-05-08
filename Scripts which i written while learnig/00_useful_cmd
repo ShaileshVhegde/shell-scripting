@@ -1,0 +1,18 @@
+#basename
+#dirname
+#realpath
+#ping
+#touch : creating file
+#RANDOM :
+#UID :
+# > :overwrite on file
+# >> :add on file
+# &> /dev/null  :not to seve or store exicution
+# nohup ./script_name.sh &  : run the script at background not in terminal even it is off!
+# at : to set time or date automate 
+# atq : to cheak the job which have to be done
+# atqrm : remove or delete the job
+# crontab : to set date time etc which automatio shoud work repetedly at perticular time{type : 1)crontab -l ,2)crontab -e}
+# free :to cheak the ram space used and uasable
+# free -h : for human readale value
+
